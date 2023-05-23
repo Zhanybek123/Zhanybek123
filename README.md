@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zhan
-- 🌱 I’m an iOS development
+- 🌱 I’m an iOS developer
 - 👀 I’m interested in coding, reading, music
 - 💞️ I speak English, Russian, Kazakh
 - 📫 How to reach me: zhanybeksalgarin@gmail.com
